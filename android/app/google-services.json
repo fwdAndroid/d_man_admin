@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964866872592",
+    "project_id": "dmans-bb7c8",
+    "storage_bucket": "dmans-bb7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964866872592:android:2d34e14282b3eaa3670195",
+        "android_client_info": {
+          "package_name": "com.example.d_man_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8m2qDWsF5FrGmAL9gIPDp37owGILQ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
